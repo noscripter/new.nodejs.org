@@ -29,7 +29,7 @@
     "handlebars": "4.0.4",
     "junk": "1.0.2",
     "map-async": "0.1.1",
-    "marked": "0.3.5",
+    "marked": "0.3.9",
     "metalsmith": "2.1.0",
     "metalsmith-collections": "0.7.0",
     "metalsmith-feed": "0.0.6",
