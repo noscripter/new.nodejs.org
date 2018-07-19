@@ -42,7 +42,7 @@
     "metalsmith-stylus": "1.0.0",
     "ncp": "2.0.0",
     "node-version-data": "1.0.0",
-    "octonode": "0.7.4",
+    "octonode": "0.7.6",
     "require-dir": "0.3.0",
     "semver": "5.0.3",
     "st": "0.5.5",
